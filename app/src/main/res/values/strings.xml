@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name" translatable="false">Github Users</string>
+    <!--    <string name="widget_title" translatable="false">Favorite User</string>-->
+
+    <!--    <string name="reminder_key" translatable="false">reminder_key</string>-->
+    <!--    <string name="theme_key" translatable="false">theme_key</string>-->
+    <!--    <string name="set_default" translatable="false">default</string>-->
+
+    <string name="repository">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+    <string name="dummy_username" translatable="false">username</string>
+    <string name="dummy_followers" translatable="false">02</string>
+    <string name="dummy_following" translatable="false">07</string>
+    <string name="dummy_repository" translatable="false">2003</string>
+    <string name="dummy_location" translatable="false">Jakarta</string>
+    <string name="dummy_type" translatable="false">User</string>
+    <string name="dummy_company" translatable="false">Sc Production</string>
+    <string name="dummy_html_url" translatable="false">www.github.com</string>
+
+    <string name="search_hint">Search user</string>
+    <string name="waiting_search">Waiting to search!</string>
+    <string name="desc_search">let\'s search a github user</string>
+
+    <!--    <string name="favorite">Favorite</string>-->
+    <!--    <string name="waiting_favorite">Waiting for you to add a favorite user</string>-->
+    <!--    <string name="desc_favorite">Let\'s add favorite user </string>-->
+    <string name="add_favorite">%s Add To Favorite</string>
+    <string name="remove_favorite">%s Remove From Favorite</string>
+    <!--    <string name="remove_all">Remove All</string>-->
+    <!--    <string name="question_alert">Are you sure want to remove all favorite users?</string>-->
+    <!--    <string name="removed_all">All favorite users removed successfully</string>-->
+        <string name="does_not_have">%1$s doesn\'t have %2$s</string>
+
+    <!--    <string name="settings">Settings</string>-->
+    <!--    <string name="language">Language</string>-->
+    <!--    <string name="change_language">Change Language</string>-->
+    <!--    <string name="reminder">Daily Reminder</string>-->
+    <!--    <string name="reminder_on">Daily Reminder On</string>-->
+    <!--    <string name="reminder_off">Daily Reminder Off</string>-->
+    <!--    <string name="reminder_title">Find Github User Now</string>-->
+    <!--    <string name="reminder_message">Its time to find github users!</string>-->
+    <!--    <string name="theme">Application Theme</string>-->
+    <!--    <string name="set_theme">Set Theme</string>-->
+
+    <string name="title_not_found">User Not Found</string>
+    <string name="desc_not_found">Let\'s find another user</string>
+    <string name="title_no_internet">No Internet Connection</string>
+    <string name="desc_no_internet">Check Your Connection</string>
+
+    <string name="cancel">Cancel</string>
+    <!--    <string name="ok">OK</string>-->
+    <!--    <string name="app_widget_no_data">No Favorite Users Found</string>-->
+    <!--    <string name="widget_enable">Widget Enable</string>-->
+    <!--    <string name="widget_disable">Widget Disable</string>-->
+
+    <!--    <string name="octocat" translatable="false">Octocat</string>-->
+    <!--    <string name="splash_screen">Splash Screen</string>-->
+    <!--    <string name="no_data">No Data</string>-->
+    <string name="avatar_user">Avatar User</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="link_github">Link Github</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    <string-array name="theme_list">-->
+    <!--        <item>Light Theme</item>-->
+    <!--        <item>Dark Theme</item>-->
+    <!--        <item>System Default</item>-->
+    <!--    </string-array>-->
+
+    <!--    <string-array name="theme_values" translatable="false">-->
+    <!--        <item>light</item>-->
+    <!--        <item>dark</item>-->
+    <!--        <item>default</item>-->
+    <!--    </string-array>-->
+</resources>

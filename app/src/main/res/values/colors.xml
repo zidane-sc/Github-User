@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B0BEC5</color>
+    <color name="colorPrimaryDark">#90A4AE</color>
+    <color name="colorAccent">#00B0FF</color>
+    <color name="background">#e8eaed</color>
+    <color name="gold">#FEC60F</color>
+    <color name="search">#fafafa</color>
+    <color name="tab">#F8F8F8</color>
+    <color name="title">#000000</color>
+    <color name="desc">#2b2b2b</color>
+    <color name="card">#F7F7F7</color>
+    <color name="add">#00AA00</color>
+    <color name="remove">#AA0000</color>
+</resources>
